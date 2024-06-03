@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshwaran-tr&label=Profile%20views&color=0e75b6&style=flat" alt="maheshwaran-tr" /> </p>
 
-- 🔭 I’m currently working on [Placement-Cell Application](https://github.com/maheshwaran-tr/sit-placement-backend)
+- 🔭 I’m currently working on [Placement-Cell Application](https://github.com/maheshwaran-tr/PlacementCellApplication)
 
 - 🌱 I’m currently learning **Spring boot**
 
